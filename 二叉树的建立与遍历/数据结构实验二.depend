@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511954734 source:e:\codeblocks\office chijiayang\数据结构实验二\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

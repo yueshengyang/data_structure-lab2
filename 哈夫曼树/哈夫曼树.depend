@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511969208 source:e:\codeblocks\office chijiayang\哈夫曼树\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+
+1511969208 source:e:\做过的作业\数据结构实验\数据结构试验二\1603006_1160800724_池嘉洋\哈夫曼树\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+
